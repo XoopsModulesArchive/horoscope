@@ -1,0 +1,19 @@
+################################################################################
+# ORIGINAL FILE INFO
+# Module            : horoscope
+# Version           : 1.00 (Xoops RC2.0.1)
+# Filename          : index.php
+# Purpose           : Ce script affiche L'horoscope du jour dans un bloc
+# Version Xoops RC2 : Philippe Muller alias --(melkahdor)--
+# email             : webmaster@melkahdor.com | http://www.melkahdor.com
+################################################################################
+
+Décompressez le pack dans modules. C'est tout !
+N'oubliez pas d'activer le module, puis de donner les droits aux groupes d'utilisateurs.
+
+Module tout ce qu'il y a de simple. Idéal pour apprendre à construire des modules pour Xoops.
+
+Ce module utilise un iframe asser grande. Bien qu'i soit possible de l'afficher dans un block c'est pas l'idéal.
+
+Amusez vous bien !
+créé d'après le module Google
